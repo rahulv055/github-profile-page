@@ -1,0 +1,14 @@
+.repository-item{
+
+}
+
+.repository-details{
+    padding: 10px;
+    /* background-color: green; */
+    border-top: 1px solid #ccc;
+}
+
+.rep-heading{
+    font-size: 18px;
+    color: #2e90ff;
+}

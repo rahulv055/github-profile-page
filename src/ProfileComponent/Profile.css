@@ -1,0 +1,28 @@
+.profile {
+    flex-direction: row;
+    display: flex;
+    margin-left: initial;
+}
+
+.item-details {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+
+img {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  span {
+    height: 30px;
+  }
